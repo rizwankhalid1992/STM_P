@@ -11,7 +11,7 @@ int main(void)
 
   while (1)
   {
-      // Add code line 1
+      // UART code are added
   }
 
 }
