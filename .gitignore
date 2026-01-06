@@ -1,0 +1,19 @@
+# Build artifacts
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+
+# IDE specific (STM32CubeIDE / Eclipse)
+.settings/
+.mxproject
+
+# OS generated files
+Thumbs.db
+.DS_Store
